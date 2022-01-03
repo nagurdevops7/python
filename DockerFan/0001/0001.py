@@ -10,7 +10,7 @@ def generate(count, length):
     # length = 20
 
     for x in range(count):
-        Re = ""
+        Re = "hhhh"
         for y in range(length):
             Re += random.choice(forSelect)
         print(Re)
